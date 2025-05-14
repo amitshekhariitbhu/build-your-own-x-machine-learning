@@ -39,7 +39,7 @@
 
 - [Implement Linear Regression from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/linear-regression/linear_regression.py)
 - [Implement Logistic Regression from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/logistic-regression/logistic_regression.py)
-- Implement K-Nearest Neighbors (KNN)
+- [Implement K-Nearest Neighbors (KNN)](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/knn/knn.py)
 - Implement Naive Bayes
 - Implement Decision Tree
 - Implement Random Forest
