@@ -1,9 +1,9 @@
 import numpy as np
 
 class LinearRegression:
-    def __init__(self, learning_rate=0.01, n_iterations=1000):
+    def __init__(self, learning_rate=0.01, n_epochs=1000):
         self.learning_rate = learning_rate
-        self.n_iterations = n_iterations
+        self.n_epochs = n_epochs
         self.weights = None
         self.bias = None
 
@@ -14,7 +14,7 @@ class LinearRegression:
         self.bias = 0
 
         # Gradient descent
-        for _ in range(self.n_iterations):
+        for _ in range(self.n_epochs):
 
             y_predicted = np.dot(X, self.weights) + self.bias
 
@@ -40,7 +40,7 @@ if __name__ == "__main__":
     y = 3 * X.flatten() + 4 + np.random.randn(100)
 
     # Create and train model
-    model = LinearRegression(learning_rate=0.01, n_iterations=1000)
+    model = LinearRegression(learning_rate=0.01, n_epochs=1000)
     model.fit(X, y)
 
     # Make predictions
