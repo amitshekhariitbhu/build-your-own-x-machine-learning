@@ -5,9 +5,9 @@ def sigmoid(z):
     return 1 / (1 + np.exp(-z))
 
 class LogisticRegression:
-    def __init__(self, learning_rate=0.01, n_iterations=1000):
+    def __init__(self, learning_rate=0.01, n_epochs=1000):
         self.learning_rate = learning_rate
-        self.n_iterations = n_iterations
+        self.n_epochs = n_epochs
         self.weights = None
         self.bias = None
 
@@ -18,7 +18,7 @@ class LogisticRegression:
         self.bias = 0
 
         # Gradient descent
-        for _ in range(self.n_iterations):
+        for _ in range(self.n_epochs):
             linear_model = np.dot(X, self.weights) + self.bias
             y_predicted = sigmoid(linear_model)
 
@@ -51,7 +51,7 @@ if __name__ == "__main__":
     y = (X[:, 0] + X[:, 1] > 0).astype(int)  # Class 1 if sum of features > 0, else 0
 
     # Create and train model
-    model = LogisticRegression(learning_rate=0.1, n_iterations=1000)
+    model = LogisticRegression(learning_rate=0.1, n_epochs=1000)
     model.fit(X, y)
 
     # Make predictions
