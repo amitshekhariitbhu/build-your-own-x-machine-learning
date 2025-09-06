@@ -46,7 +46,7 @@
 - Implement Naive Bayes
 - Implement Decision Tree
 - Implement Random Forest
-- Implement Support Vector Machines (SVM) from scratch
+- Implement Support Vector Machines (SVM)
 - Implement K-Means Clustering from scratch
 - Implement Principal Component Analysis (PCA)
 - Implement Perceptron from scratch
@@ -327,7 +327,7 @@
 - Develop a Blood Donation Prediction Model
 - Build a Cross-Validation System
 - Implement Grid Search and Random Search for Hyperparameter Tuning
-- Build a Confusion Matrix System
+- Implement a Confusion Matrix System
 - Write code to calculate the F1-score
 - Develop a Bagging Ensemble Model
 - Build a Boosting Ensemble Model
