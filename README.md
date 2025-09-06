@@ -6,7 +6,31 @@
 
 > Master machine learning by building everything from scratch. It aims to cover everything from linear regression to deep learning to large language models (LLMs).
 
+## Table of Contents
+* [Core Machine Learning Algorithms](#core-machine-learning-algorithms)
+* [Neural Networks and Deep Learning](#neural-networks-and-deep-learning)
+* [Recommendation Systems](#recommendation-systems)
+* [Computer Vision Applications](#computer-vision-applications)
+* [Natural Language Processing](#natural-language-processing)
+* [Time Series and Forecasting](#time-series-and-forecasting)
+* [Anomaly Detection](#anomaly-detection)
+* [Sentiment and Text Analysis](#sentiment-and-text-analysis)
+* [Miscellaneous Applications](#miscellaneous-applications)
 
+### Prepared and maintained by the **Founder** of [Outcome School](https://outcomeschool.com): Amit Shekhar
+
+### Follow Amit Shekhar
+
+- [X/Twitter](https://twitter.com/amitiitbhu)
+- [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
+- [GitHub](https://github.com/amitshekhariitbhu)
+
+### Follow Outcome School
+
+- [YouTube](https://youtube.com/@OutcomeSchool)
+- [X/Twitter](https://x.com/outcome_school)
+- [LinkedIn](https://www.linkedin.com/company/outcomeschool)
+- [GitHub](http://github.com/OutcomeSchool)
 
 ---
 
