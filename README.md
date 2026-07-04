@@ -83,23 +83,23 @@ Join Outcome School and get a high-paying tech job: [Outcome School](https://out
 
 ### Neural Networks and Deep Learning
 
-- Build your own Neural Network from scratch
-- Build your own Convolutional Neural Network from scratch
-- Build a Transformer-based Large Language Model from scratch.
-- Build an LSTM Neural Network from scratch
-- Implement an Autoencoder from scratch
-- Implement Backpropagation from scratch
-- Build a mini framework like TensorFlow using NumPy from scratch
-- Build a mini framework like PyTorch using NumPy from scratch
-- Implement Reinforcement Learning from scratch
-- Implement a Diffusion Model from scratch
-- Implement Generative Adversarial Network (GAN) from scratch
-- Develop Feedforward Neural Networks from scratch
-- Build a Recurrent Neural Network from scratch
-- Implement Gated Recurrent Unit (GRU) from scratch
-- Develop a Variational Autoencoder Model
-- Implement AlexNet Neural Network Architecture from scratch
-- Build a Multilayer Perceptron from scratch
+- [Build your own Neural Network from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/neural-network/neural_network.py)
+- [Build your own Convolutional Neural Network from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/convolutional-neural-network/convolutional_neural_network.py)
+- [Build a Transformer-based Large Language Model from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/transformer-llm/transformer_llm.py).
+- [Build an LSTM Neural Network from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/lstm/lstm.py)
+- [Implement an Autoencoder from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/autoencoder/autoencoder.py)
+- [Implement Backpropagation from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/backpropagation/backpropagation.py)
+- [Build a mini framework like TensorFlow using NumPy from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/mini-tensorflow/mini_tensorflow.py)
+- [Build a mini framework like PyTorch using NumPy from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/mini-pytorch/mini_pytorch.py)
+- [Implement Reinforcement Learning from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/reinforcement-learning/reinforcement_learning.py)
+- [Implement a Diffusion Model from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/diffusion-model/diffusion_model.py)
+- [Implement Generative Adversarial Network (GAN) from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/gan/gan.py)
+- [Develop Feedforward Neural Networks from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/feedforward-neural-network/feedforward_neural_network.py)
+- [Build a Recurrent Neural Network from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/recurrent-neural-network/recurrent_neural_network.py)
+- [Implement Gated Recurrent Unit (GRU) from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/gru/gru.py)
+- [Develop a Variational Autoencoder Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/variational-autoencoder/variational_autoencoder.py)
+- [Implement AlexNet Neural Network Architecture from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/alexnet/alexnet.py)
+- [Build a Multilayer Perceptron from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/neural-networks-and-deep-learning/multilayer-perceptron/multilayer_perceptron.py)
 
 ### Recommendation Systems
 
