@@ -50,7 +50,7 @@ Join Outcome School and get a high-paying tech job: [Outcome School](https://out
 - [Implement Linear Regression from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/linear-regression/linear_regression.py)
 - [Implement Logistic Regression from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/logistic-regression/logistic_regression.py)
 - [Implement K-Nearest Neighbors (KNN)](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/knn/knn.py)
-- Implement Naive Bayes
+- [Implement Naive Bayes](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/naive-bayes/naive_bayes.py)
 - Implement Decision Tree
 - Implement Random Forest
 - Implement Support Vector Machines (SVM)
