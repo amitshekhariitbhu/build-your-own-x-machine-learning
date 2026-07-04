@@ -124,232 +124,232 @@ Join Outcome School and get a high-paying tech job: [Outcome School](https://out
 
 ### Computer Vision Applications
 
-- Build a traffic sign classifier using CNN
-- Build an app for Optical Character Recognition (OCR)
-- Implement Handwritten Digit Recognition from scratch
-- Implement Brain Tumor Detection from scratch
-- Implement Pneumonia Detection using Deep Learning
-- Build a real-time object detection application
-- Implement Face Mask Detection
-- Build a pedestrian detection system
-- Implement Handwritten Character Recognition from scratch
-- Build a License Plate Recognition System
-- Build a Real-Time Hand Gesture Recognition System
-- Implement Bird Species Identification Model
-- Build a Cats vs Dogs Classification Model
-- Build a Human Face Detection System
-- Build an Image Cartoonification System
-- Implement Fake Currency Detection Model
-- Implement Flower Recognition Model
-- Implement Image Colorization Model
-- Build a Distracted Driver Detection System
-- Develop a Human Activity Recognition Model
-- Build an Image Segmentation System
-- Build a Human Face Recognition System
-- Build a Human Pose Estimation System
-- Develop a Dog Breed Identification App
-- Build a Vehicle Counting System for Traffic Management
-- Implement Instance Segmentation System
-- Implement Text Extraction from Images
-- Develop Bone X-Ray Analysis Model
-- Build an Image Classification Model
-- Implement Image Captioning Model
-- Build a Visual Question Answering System
-- Implement Style Transfer Model
-- Develop Landmark Detection Model
-- Develop a Face Landmark Detection Model
-- Build a Satellite Imagery Processing System for Automated Tagging
-- Build a model for Object Counting in Images
-- Implement an Image Recognition system
-- Develop HOG Feature Extraction System
+- [Build a traffic sign classifier using CNN](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/traffic-sign-classifier-using-cnn/traffic_sign_classifier_using_cnn.py)
+- [Build an app for Optical Character Recognition (OCR)](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/optical-character-recognition-ocr/optical_character_recognition_ocr.py)
+- [Implement Handwritten Digit Recognition from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/handwritten-digit-recognition/handwritten_digit_recognition.py)
+- [Implement Brain Tumor Detection from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/brain-tumor-detection/brain_tumor_detection.py)
+- [Implement Pneumonia Detection using Deep Learning](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/pneumonia-detection-using-deep-learning/pneumonia_detection_using_deep_learning.py)
+- [Build a real-time object detection application](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/real-time-object-detection-application/real_time_object_detection_application.py)
+- [Implement Face Mask Detection](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/face-mask-detection/face_mask_detection.py)
+- [Build a pedestrian detection system](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/pedestrian-detection-system/pedestrian_detection_system.py)
+- [Implement Handwritten Character Recognition from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/handwritten-character-recognition/handwritten_character_recognition.py)
+- [Build a License Plate Recognition System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/license-plate-recognition-system/license_plate_recognition_system.py)
+- [Build a Real-Time Hand Gesture Recognition System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/real-time-hand-gesture-recognition-system/real_time_hand_gesture_recognition_system.py)
+- [Implement Bird Species Identification Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/bird-species-identification-model/bird_species_identification_model.py)
+- [Build a Cats vs Dogs Classification Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/cats-vs-dogs-classification-model/cats_vs_dogs_classification_model.py)
+- [Build a Human Face Detection System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/human-face-detection-system/human_face_detection_system.py)
+- [Build an Image Cartoonification System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/image-cartoonification-system/image_cartoonification_system.py)
+- [Implement Fake Currency Detection Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/fake-currency-detection-model/fake_currency_detection_model.py)
+- [Implement Flower Recognition Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/flower-recognition-model/flower_recognition_model.py)
+- [Implement Image Colorization Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/image-colorization-model/image_colorization_model.py)
+- [Build a Distracted Driver Detection System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/distracted-driver-detection-system/distracted_driver_detection_system.py)
+- [Develop a Human Activity Recognition Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/human-activity-recognition-model/human_activity_recognition_model.py)
+- [Build an Image Segmentation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/image-segmentation-system/image_segmentation_system.py)
+- [Build a Human Face Recognition System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/human-face-recognition-system/human_face_recognition_system.py)
+- [Build a Human Pose Estimation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/human-pose-estimation-system/human_pose_estimation_system.py)
+- [Develop a Dog Breed Identification App](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/dog-breed-identification-app/dog_breed_identification_app.py)
+- [Build a Vehicle Counting System for Traffic Management](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/vehicle-counting-system-for-traffic-management/vehicle_counting_system_for_traffic_management.py)
+- [Implement Instance Segmentation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/instance-segmentation-system/instance_segmentation_system.py)
+- [Implement Text Extraction from Images](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/text-extraction-from-images/text_extraction_from_images.py)
+- [Develop Bone X-Ray Analysis Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/bone-x-ray-analysis-model/bone_x_ray_analysis_model.py)
+- [Build an Image Classification Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/image-classification-model/image_classification_model.py)
+- [Implement Image Captioning Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/image-captioning-model/image_captioning_model.py)
+- [Build a Visual Question Answering System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/visual-question-answering-system/visual_question_answering_system.py)
+- [Implement Style Transfer Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/style-transfer-model/style_transfer_model.py)
+- [Develop Landmark Detection Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/landmark-detection-model/landmark_detection_model.py)
+- [Develop a Face Landmark Detection Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/face-landmark-detection-model/face_landmark_detection_model.py)
+- [Build a Satellite Imagery Processing System for Automated Tagging](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/satellite-imagery-processing-system-for-automated-tagging/satellite_imagery_processing_system_for_automated_tagging.py)
+- [Build a model for Object Counting in Images](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/object-counting-in-images/object_counting_in_images.py)
+- [Implement an Image Recognition system](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/image-recognition-system/image_recognition_system.py)
+- [Develop HOG Feature Extraction System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/computer-vision-applications/hog-feature-extraction-system/hog_feature_extraction_system.py)
 
 ### Natural Language Processing
 
-- Build a Language Translator from scratch
-- Build a Text Summarizer from scratch
-- Implement a BPE Tokenizer from scratch
-- Build Word Embedding from scratch
-- Build Word2Vec from scratch
-- Implement Spam Email Classifier from scratch
-- Develop a Sentiment Analysis System from scratch
-- Build a Harmful Content Detection System
-- Develop a Chatbot System
-- Implement Speech Emotion Recognition from scratch
-- Implement Emoji Prediction System
-- Develop an Automatic Music Generation App
-- Implement Sign Language Recognition System
-- Build a Named Entity Recognition System from scratch
-- Build a Next Word Prediction Model
-- Develop a Smart Proofreader System
-- Implement a Text Processing Pipeline for Indian Languages from scratch
-- Develop an Automated Essay Grading System
-- Implement Handwriting Recognition for Forms
-- Develop a Document Layout Analysis System
-- Implement Table Detection and Extraction from Documents
-- Build a News Article Classification Model
-- Build a Code Syntax Highlighting System using ML
-- Develop a Spelling Correction System using a Language Model
-- Develop a Question-to-SQL Query Generator System
-- Implement Topic Modeling for Customer Complaints from scratch
-- Build a Text-to-Speech System
-- Implement Personalized News Generation System
-- Develop a Calendar Scheduling System from Text
-- Build an Email Organization System using ML
-- Implement Text Extraction from PDFs from scratch
-- Build a Topic Modeling System
-- Develop a Language Classification Model
-- Implement Text Classification Model
-- Implement Text and Annotation Analysis System
-- Build a Medical Chatbot
-- Build an AI Room Booking Chatbot
+- [Build a Language Translator from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/language-translator/language_translator.py)
+- [Build a Text Summarizer from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/text-summarizer/text_summarizer.py)
+- [Implement a BPE Tokenizer from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/bpe-tokenizer/bpe_tokenizer.py)
+- [Build Word Embedding from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/word-embedding/word_embedding.py)
+- [Build Word2Vec from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/word2vec/word2vec.py)
+- [Implement Spam Email Classifier from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/spam-email-classifier/spam_email_classifier.py)
+- [Develop a Sentiment Analysis System from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/sentiment-analysis-system/sentiment_analysis_system.py)
+- [Build a Harmful Content Detection System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/harmful-content-detection-system/harmful_content_detection_system.py)
+- [Develop a Chatbot System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/chatbot-system/chatbot_system.py)
+- [Implement Speech Emotion Recognition from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/speech-emotion-recognition/speech_emotion_recognition.py)
+- [Implement Emoji Prediction System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/emoji-prediction-system/emoji_prediction_system.py)
+- [Develop an Automatic Music Generation App](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/automatic-music-generation-app/automatic_music_generation_app.py)
+- [Implement Sign Language Recognition System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/sign-language-recognition-system/sign_language_recognition_system.py)
+- [Build a Named Entity Recognition System from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/named-entity-recognition-system/named_entity_recognition_system.py)
+- [Build a Next Word Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/next-word-prediction-model/next_word_prediction_model.py)
+- [Develop a Smart Proofreader System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/smart-proofreader-system/smart_proofreader_system.py)
+- [Implement a Text Processing Pipeline for Indian Languages from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/text-processing-pipeline-for-indian-languages/text_processing_pipeline_for_indian_languages.py)
+- [Develop an Automated Essay Grading System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/automated-essay-grading-system/automated_essay_grading_system.py)
+- [Implement Handwriting Recognition for Forms](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/handwriting-recognition-for-forms/handwriting_recognition_for_forms.py)
+- [Develop a Document Layout Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/document-layout-analysis-system/document_layout_analysis_system.py)
+- [Implement Table Detection and Extraction from Documents](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/table-detection-and-extraction-from-documents/table_detection_and_extraction_from_documents.py)
+- [Build a News Article Classification Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/news-article-classification-model/news_article_classification_model.py)
+- [Build a Code Syntax Highlighting System using ML](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/code-syntax-highlighting-system-using-ml/code_syntax_highlighting_system_using_ml.py)
+- [Develop a Spelling Correction System using a Language Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/spelling-correction-system-using-a-language-model/spelling_correction_system_using_a_language_model.py)
+- [Develop a Question-to-SQL Query Generator System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/question-to-sql-query-generator-system/question_to_sql_query_generator_system.py)
+- [Implement Topic Modeling for Customer Complaints from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/topic-modeling-for-customer-complaints/topic_modeling_for_customer_complaints.py)
+- [Build a Text-to-Speech System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/text-to-speech-system/text_to_speech_system.py)
+- [Implement Personalized News Generation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/personalized-news-generation-system/personalized_news_generation_system.py)
+- [Develop a Calendar Scheduling System from Text](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/calendar-scheduling-system-from-text/calendar_scheduling_system_from_text.py)
+- [Build an Email Organization System using ML](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/email-organization-system-using-ml/email_organization_system_using_ml.py)
+- [Implement Text Extraction from PDFs from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/text-extraction-from-pdfs/text_extraction_from_pdfs.py)
+- [Build a Topic Modeling System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/topic-modeling-system/topic_modeling_system.py)
+- [Develop a Language Classification Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/language-classification-model/language_classification_model.py)
+- [Implement Text Classification Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/text-classification-model/text_classification_model.py)
+- [Implement Text and Annotation Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/text-and-annotation-analysis-system/text_and_annotation_analysis_system.py)
+- [Build a Medical Chatbot](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/medical-chatbot/medical_chatbot.py)
+- [Build an AI Room Booking Chatbot](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/natural-language-processing/ai-room-booking-chatbot/ai_room_booking_chatbot.py)
 
 ### Time Series and Forecasting
 
-- Implement LSTM Models for Time Series Forecasting
-- Implement Multivariate Time Series Forecasting Model
-- Implement Univariate Time Series Forecasting Model
-- Develop an Automated Time Series Forecasting System
-- Develop an ARIMA Model
-- Build a Prophet Forecasting Model
-- Implement Exponential Smoothing for Time Series
-- Build an Anomaly Detection System using ARIMA
-- Implement Stock Price Prediction Model
-- Build a Customer Churn Prediction System
-- Implement Crop Yield Prediction Model
-- Implement Daily Birth Forecasting Model
-- Implement Rainfall Prediction Model
-- Build a Product Demand Prediction Model
-- Implement Electricity Price Prediction Model
-- Develop a Future Sales Prediction Model
-- Implement a Gold Price Prediction Model
-- Build a Bitcoin Price Prediction Model
-- Build a Currency Exchange Rate Prediction Model
-- Implement Profit Prediction Model
-- Develop a Sales Prediction Model
-- Build a Demand and Load Forecasting Model
-- Implement a Cricket Score Prediction Model
-- Develop an Order Volume Prediction Model
-- Build a Waiter Tip Prediction Model
-- Implement Calorie Burn Prediction Model
-- Implement House Price Prediction Model
-- Develop a Car Price Prediction Model
-- Build a Fuel Efficiency Prediction Model
-- Implement the COVID-19 Case Prediction Model
-- Develop a Migration Prediction Model
-- Implement COVID-19 Analysis System
-- Implement Uber Trip Analysis System
+- [Implement LSTM Models for Time Series Forecasting](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/lstm-models-for-time-series-forecasting/lstm_models_for_time_series_forecasting.py)
+- [Implement Multivariate Time Series Forecasting Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/multivariate-time-series-forecasting-model/multivariate_time_series_forecasting_model.py)
+- [Implement Univariate Time Series Forecasting Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/univariate-time-series-forecasting-model/univariate_time_series_forecasting_model.py)
+- [Develop an Automated Time Series Forecasting System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/automated-time-series-forecasting-system/automated_time_series_forecasting_system.py)
+- [Develop an ARIMA Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/arima-model/arima_model.py)
+- [Build a Prophet Forecasting Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/prophet-forecasting-model/prophet_forecasting_model.py)
+- [Implement Exponential Smoothing for Time Series](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/exponential-smoothing-for-time-series/exponential_smoothing_for_time_series.py)
+- [Build an Anomaly Detection System using ARIMA](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/anomaly-detection-system-using-arima/anomaly_detection_system_using_arima.py)
+- [Implement Stock Price Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/stock-price-prediction-model/stock_price_prediction_model.py)
+- [Build a Customer Churn Prediction System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/customer-churn-prediction-system/customer_churn_prediction_system.py)
+- [Implement Crop Yield Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/crop-yield-prediction-model/crop_yield_prediction_model.py)
+- [Implement Daily Birth Forecasting Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/daily-birth-forecasting-model/daily_birth_forecasting_model.py)
+- [Implement Rainfall Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/rainfall-prediction-model/rainfall_prediction_model.py)
+- [Build a Product Demand Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/product-demand-prediction-model/product_demand_prediction_model.py)
+- [Implement Electricity Price Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/electricity-price-prediction-model/electricity_price_prediction_model.py)
+- [Develop a Future Sales Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/future-sales-prediction-model/future_sales_prediction_model.py)
+- [Implement a Gold Price Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/gold-price-prediction-model/gold_price_prediction_model.py)
+- [Build a Bitcoin Price Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/bitcoin-price-prediction-model/bitcoin_price_prediction_model.py)
+- [Build a Currency Exchange Rate Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/currency-exchange-rate-prediction-model/currency_exchange_rate_prediction_model.py)
+- [Implement Profit Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/profit-prediction-model/profit_prediction_model.py)
+- [Develop a Sales Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/sales-prediction-model/sales_prediction_model.py)
+- [Build a Demand and Load Forecasting Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/demand-and-load-forecasting-model/demand_and_load_forecasting_model.py)
+- [Implement a Cricket Score Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/cricket-score-prediction-model/cricket_score_prediction_model.py)
+- [Develop an Order Volume Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/order-volume-prediction-model/order_volume_prediction_model.py)
+- [Build a Waiter Tip Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/waiter-tip-prediction-model/waiter_tip_prediction_model.py)
+- [Implement Calorie Burn Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/calorie-burn-prediction-model/calorie_burn_prediction_model.py)
+- [Implement House Price Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/house-price-prediction-model/house_price_prediction_model.py)
+- [Develop a Car Price Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/car-price-prediction-model/car_price_prediction_model.py)
+- [Build a Fuel Efficiency Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/fuel-efficiency-prediction-model/fuel_efficiency_prediction_model.py)
+- [Implement the COVID-19 Case Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/covid-19-case-prediction-model/covid_19_case_prediction_model.py)
+- [Develop a Migration Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/migration-prediction-model/migration_prediction_model.py)
+- [Implement COVID-19 Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/covid-19-analysis-system/covid_19_analysis_system.py)
+- [Implement Uber Trip Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/time-series-and-forecasting/uber-trip-analysis-system/uber_trip_analysis_system.py)
 
 ### Anomaly Detection
 
-- Build an Anomaly Detection System
-- Implement a Credit Card Fraud Detection System
-- Build a Customer Segmentation Model
-- Implement a Fake Product Review Detection Model
-- Build an Insurance Claim Fraud Detection System
-- Implement Online Payment Fraud Detection Model
-- Develop a Consumer Credit Risk Prediction Model
+- [Build an Anomaly Detection System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/anomaly-detection/anomaly-detection-system/anomaly_detection_system.py)
+- [Implement a Credit Card Fraud Detection System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/anomaly-detection/credit-card-fraud-detection-system/credit_card_fraud_detection_system.py)
+- [Build a Customer Segmentation Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/anomaly-detection/customer-segmentation-model/customer_segmentation_model.py)
+- [Implement a Fake Product Review Detection Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/anomaly-detection/fake-product-review-detection-model/fake_product_review_detection_model.py)
+- [Build an Insurance Claim Fraud Detection System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/anomaly-detection/insurance-claim-fraud-detection-system/insurance_claim_fraud_detection_system.py)
+- [Implement Online Payment Fraud Detection Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/anomaly-detection/online-payment-fraud-detection-model/online_payment_fraud_detection_model.py)
+- [Develop a Consumer Credit Risk Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/anomaly-detection/consumer-credit-risk-prediction-model/consumer_credit_risk_prediction_model.py)
 
 ### Sentiment and Text Analysis
 
-- Implement Twitter Hashtag Prediction Model
-- Implement Deepfake Detection Model
-- Build an SMS Spam Detection App
-- Implement WhatsApp Chat Sentiment Analysis System
-- Develop an Omicron Variant Sentiment Analysis System
-- Build a Squid Game Sentiment Analysis System
-- Develop a Google Play Store Sentiment Analysis System
-- Build an Amazon Alexa Review Sentiment Analysis System
-- Develop a Hotel Review Sentiment Analysis System
-- Build a Hate Speech Detection System
-- Build a Fake News Detection System
-- Implement a Social Media Ad Classification Model
-- Implement a Real-Time Sentiment Analysis System
-- Implement a Comparison System for Classification Algorithms
-- Implement a Streaming Service Analysis System
-- Develop a Sarcasm Detection System
-- Implement an Amazon Product Review Sentiment Analysis System
-- Develop a Google Search Analysis System
-- Implement a Financial Budget Analysis System
-- Develop a Click-Through Rate Prediction Model
-- Build a YouTube Trending Video Analysis System
-- Implement a Netflix Data Analysis System
+- [Implement Twitter Hashtag Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/twitter-hashtag-prediction-model/twitter_hashtag_prediction_model.py)
+- [Implement Deepfake Detection Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/deepfake-detection-model/deepfake_detection_model.py)
+- [Build an SMS Spam Detection App](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/sms-spam-detection-app/sms_spam_detection_app.py)
+- [Implement WhatsApp Chat Sentiment Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/whatsapp-chat-sentiment-analysis-system/whatsapp_chat_sentiment_analysis_system.py)
+- [Develop an Omicron Variant Sentiment Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/omicron-variant-sentiment-analysis-system/omicron_variant_sentiment_analysis_system.py)
+- [Build a Squid Game Sentiment Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/squid-game-sentiment-analysis-system/squid_game_sentiment_analysis_system.py)
+- [Develop a Google Play Store Sentiment Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/google-play-store-sentiment-analysis-system/google_play_store_sentiment_analysis_system.py)
+- [Build an Amazon Alexa Review Sentiment Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/amazon-alexa-review-sentiment-analysis-system/amazon_alexa_review_sentiment_analysis_system.py)
+- [Develop a Hotel Review Sentiment Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/hotel-review-sentiment-analysis-system/hotel_review_sentiment_analysis_system.py)
+- [Build a Hate Speech Detection System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/hate-speech-detection-system/hate_speech_detection_system.py)
+- [Build a Fake News Detection System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/fake-news-detection-system/fake_news_detection_system.py)
+- [Implement a Social Media Ad Classification Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/social-media-ad-classification-model/social_media_ad_classification_model.py)
+- [Implement a Real-Time Sentiment Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/real-time-sentiment-analysis-system/real_time_sentiment_analysis_system.py)
+- [Implement a Comparison System for Classification Algorithms](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/comparison-system-for-classification-algorithms/comparison_system_for_classification_algorithms.py)
+- [Implement a Streaming Service Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/streaming-service-analysis-system/streaming_service_analysis_system.py)
+- [Develop a Sarcasm Detection System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/sarcasm-detection-system/sarcasm_detection_system.py)
+- [Implement an Amazon Product Review Sentiment Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/amazon-product-review-sentiment-analysis-system/amazon_product_review_sentiment_analysis_system.py)
+- [Develop a Google Search Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/google-search-analysis-system/google_search_analysis_system.py)
+- [Implement a Financial Budget Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/financial-budget-analysis-system/financial_budget_analysis_system.py)
+- [Develop a Click-Through Rate Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/click-through-rate-prediction-model/click_through_rate_prediction_model.py)
+- [Build a YouTube Trending Video Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/youtube-trending-video-analysis-system/youtube_trending_video_analysis_system.py)
+- [Implement a Netflix Data Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/sentiment-and-text-analysis/netflix-data-analysis-system/netflix_data_analysis_system.py)
 
 ### Miscellaneous Applications
 
-- Build a system to detect Parkinson’s Disease
-- Implement Breast Cancer Classification System
-- Develop a Gender and Age Detection System
-- Implement the Driver Drowsiness Detection System
-- Develop a Video Surveillance System
-- Develop an Earthquake Prediction System
-- Implement the Iris Flower Classification System
-- Build a Diabetes Prediction System
-- Develop a Heart Disease Prediction Model
-- Build a Hypothyroidism Prediction Model
-- Develop an Election Prediction Model
-- Build a Tinder Match Prediction Model
-- Develop a Worldwide Billionaires Analysis System
-- Build an Unemployment Analysis System
-- Develop a Life Expectancy Analysis System
-- Develop a Highest-Paid Athlete Analysis System
-- Build a Birth Rate Analysis System
-- Build a Social Media Follower Prediction Model
-- Build a Health Insurance Premium Prediction Model
-- Implement a Mobile Price Classification Model
-- Implement a Bar Chart Race Visualization
-- Develop a Keyword Research System
-- Implement a Contact Tracing System
-- Build a Titanic Survival Analysis System
-- Develop a Student Grade Prediction Model
-- Implement a Q-Learning Algorithm from scratch
-- Develop a Deep Q-Network (DQN)
-- Implement policy gradient methods
-- Implement Actor-Critic Methods
-- Implement the SARSA Algorithm
-- Build a Proximal Policy Optimization Algorithm
-- Build a Monte Carlo Tree Search Algorithm
-- Build a Network Security Analysis System
-- Develop a Genetic Algorithm
-- Build a Healthcare Data Analysis System
-- Build a Resume Parser System
-- Implement an Autocorrect Keyboard System from scratch
-- Build a Barcode and QR Code Reader System
-- Develop an Amazon Bestselling Books Analysis System
-- Implement a Video Game Sales Prediction Model
-- Develop a President Height Analysis System
-- Implement a Movie Rating Analysis System
-- Build an Ad Click Prediction Model
-- Build a model to Estimate Delivery Time
-- Build an Image Search System
-- Implement Music Genre Classification
-- Implement Nationality Classification Model
-- Develop an Employee Turnover Prediction Model
-- Implement Wine Quality Prediction Model
-- Develop a Visualization System for a Machine Learning Algorithm
-- Build an Automated Tagging System for StackOverflow Questions
-- Build a Title Generation System
-- Develop an Online Shopping Intention Analysis System
-- Build a Stress Detection System
-- Implement Insurance Prediction Model
-- Develop a Blood Donation Prediction Model
-- Build a Cross-Validation System
-- Implement Grid Search and Random Search for Hyperparameter Tuning
-- Implement a Confusion Matrix System
-- Write code to calculate the F1-score
-- Develop a Bagging Ensemble Model
-- Build a Boosting Ensemble Model
-- Implement a Stacking Ensemble Model
-- Develop a Voting Classifier Model
-- Implement t-SNE Dimensionality Reduction
-- Implement UMAP Dimensionality Reduction
-- Implement Newton’s Method Optimization
-- Implement Bayesian Networks from scratch
-- Develop Hidden Markov Models
-- Build Self-Organizing Maps
-- Build a Self-Training Model
-- Implement Contrastive Learning
-- Develop a Large-Scale Video Understanding System
-- Build a Video Summarization System
+- [Build a system to detect Parkinson’s Disease](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/detect-parkinsons-disease/detect_parkinsons_disease.py)
+- [Implement Breast Cancer Classification System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/breast-cancer-classification-system/breast_cancer_classification_system.py)
+- [Develop a Gender and Age Detection System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/gender-and-age-detection-system/gender_and_age_detection_system.py)
+- [Implement the Driver Drowsiness Detection System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/driver-drowsiness-detection-system/driver_drowsiness_detection_system.py)
+- [Develop a Video Surveillance System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/video-surveillance-system/video_surveillance_system.py)
+- [Develop an Earthquake Prediction System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/earthquake-prediction-system/earthquake_prediction_system.py)
+- [Implement the Iris Flower Classification System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/iris-flower-classification-system/iris_flower_classification_system.py)
+- [Build a Diabetes Prediction System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/diabetes-prediction-system/diabetes_prediction_system.py)
+- [Develop a Heart Disease Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/heart-disease-prediction-model/heart_disease_prediction_model.py)
+- [Build a Hypothyroidism Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/hypothyroidism-prediction-model/hypothyroidism_prediction_model.py)
+- [Develop an Election Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/election-prediction-model/election_prediction_model.py)
+- [Build a Tinder Match Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/tinder-match-prediction-model/tinder_match_prediction_model.py)
+- [Develop a Worldwide Billionaires Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/worldwide-billionaires-analysis-system/worldwide_billionaires_analysis_system.py)
+- [Build an Unemployment Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/unemployment-analysis-system/unemployment_analysis_system.py)
+- [Develop a Life Expectancy Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/life-expectancy-analysis-system/life_expectancy_analysis_system.py)
+- [Develop a Highest-Paid Athlete Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/highest-paid-athlete-analysis-system/highest_paid_athlete_analysis_system.py)
+- [Build a Birth Rate Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/birth-rate-analysis-system/birth_rate_analysis_system.py)
+- [Build a Social Media Follower Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/social-media-follower-prediction-model/social_media_follower_prediction_model.py)
+- [Build a Health Insurance Premium Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/health-insurance-premium-prediction-model/health_insurance_premium_prediction_model.py)
+- [Implement a Mobile Price Classification Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/mobile-price-classification-model/mobile_price_classification_model.py)
+- [Implement a Bar Chart Race Visualization](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/bar-chart-race-visualization/bar_chart_race_visualization.py)
+- [Develop a Keyword Research System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/keyword-research-system/keyword_research_system.py)
+- [Implement a Contact Tracing System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/contact-tracing-system/contact_tracing_system.py)
+- [Build a Titanic Survival Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/titanic-survival-analysis-system/titanic_survival_analysis_system.py)
+- [Develop a Student Grade Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/student-grade-prediction-model/student_grade_prediction_model.py)
+- [Implement a Q-Learning Algorithm from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/q-learning-algorithm/q_learning_algorithm.py)
+- [Develop a Deep Q-Network (DQN)](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/deep-q-network-dqn/deep_q_network_dqn.py)
+- [Implement policy gradient methods](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/policy-gradient-methods/policy_gradient_methods.py)
+- [Implement Actor-Critic Methods](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/actor-critic-methods/actor_critic_methods.py)
+- [Implement the SARSA Algorithm](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/sarsa-algorithm/sarsa_algorithm.py)
+- [Build a Proximal Policy Optimization Algorithm](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/proximal-policy-optimization-algorithm/proximal_policy_optimization_algorithm.py)
+- [Build a Monte Carlo Tree Search Algorithm](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/monte-carlo-tree-search-algorithm/monte_carlo_tree_search_algorithm.py)
+- [Build a Network Security Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/network-security-analysis-system/network_security_analysis_system.py)
+- [Develop a Genetic Algorithm](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/genetic-algorithm/genetic_algorithm.py)
+- [Build a Healthcare Data Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/healthcare-data-analysis-system/healthcare_data_analysis_system.py)
+- [Build a Resume Parser System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/resume-parser-system/resume_parser_system.py)
+- [Implement an Autocorrect Keyboard System from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/autocorrect-keyboard-system/autocorrect_keyboard_system.py)
+- [Build a Barcode and QR Code Reader System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/barcode-and-qr-code-reader-system/barcode_and_qr_code_reader_system.py)
+- [Develop an Amazon Bestselling Books Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/amazon-bestselling-books-analysis-system/amazon_bestselling_books_analysis_system.py)
+- [Implement a Video Game Sales Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/video-game-sales-prediction-model/video_game_sales_prediction_model.py)
+- [Develop a President Height Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/president-height-analysis-system/president_height_analysis_system.py)
+- [Implement a Movie Rating Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/movie-rating-analysis-system/movie_rating_analysis_system.py)
+- [Build an Ad Click Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/ad-click-prediction-model/ad_click_prediction_model.py)
+- [Build a model to Estimate Delivery Time](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/estimate-delivery-time/estimate_delivery_time.py)
+- [Build an Image Search System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/image-search-system/image_search_system.py)
+- [Implement Music Genre Classification](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/music-genre-classification/music_genre_classification.py)
+- [Implement Nationality Classification Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/nationality-classification-model/nationality_classification_model.py)
+- [Develop an Employee Turnover Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/employee-turnover-prediction-model/employee_turnover_prediction_model.py)
+- [Implement Wine Quality Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/wine-quality-prediction-model/wine_quality_prediction_model.py)
+- [Develop a Visualization System for a Machine Learning Algorithm](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/visualization-system-for-a-machine-learning-algorithm/visualization_system_for_a_machine_learning_algorithm.py)
+- [Build an Automated Tagging System for StackOverflow Questions](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/automated-tagging-system-for-stackoverflow-questions/automated_tagging_system_for_stackoverflow_questions.py)
+- [Build a Title Generation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/title-generation-system/title_generation_system.py)
+- [Develop an Online Shopping Intention Analysis System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/online-shopping-intention-analysis-system/online_shopping_intention_analysis_system.py)
+- [Build a Stress Detection System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/stress-detection-system/stress_detection_system.py)
+- [Implement Insurance Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/insurance-prediction-model/insurance_prediction_model.py)
+- [Develop a Blood Donation Prediction Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/blood-donation-prediction-model/blood_donation_prediction_model.py)
+- [Build a Cross-Validation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/cross-validation-system/cross_validation_system.py)
+- [Implement Grid Search and Random Search for Hyperparameter Tuning](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/grid-search-and-random-search-for-hyperparameter-tuning/grid_search_and_random_search_for_hyperparameter_tuning.py)
+- [Implement a Confusion Matrix System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/confusion-matrix-system/confusion_matrix_system.py)
+- [Write code to calculate the F1-score](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/calculate-the-f1-score/calculate_the_f1_score.py)
+- [Develop a Bagging Ensemble Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/bagging-ensemble-model/bagging_ensemble_model.py)
+- [Build a Boosting Ensemble Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/boosting-ensemble-model/boosting_ensemble_model.py)
+- [Implement a Stacking Ensemble Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/stacking-ensemble-model/stacking_ensemble_model.py)
+- [Develop a Voting Classifier Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/voting-classifier-model/voting_classifier_model.py)
+- [Implement t-SNE Dimensionality Reduction](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/t-sne-dimensionality-reduction/t_sne_dimensionality_reduction.py)
+- [Implement UMAP Dimensionality Reduction](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/umap-dimensionality-reduction/umap_dimensionality_reduction.py)
+- [Implement Newton’s Method Optimization](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/newtons-method-optimization/newtons_method_optimization.py)
+- [Implement Bayesian Networks from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/bayesian-networks/bayesian_networks.py)
+- [Develop Hidden Markov Models](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/hidden-markov-models/hidden_markov_models.py)
+- [Build Self-Organizing Maps](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/self-organizing-maps/self_organizing_maps.py)
+- [Build a Self-Training Model](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/self-training-model/self_training_model.py)
+- [Implement Contrastive Learning](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/contrastive-learning/contrastive_learning.py)
+- [Develop a Large-Scale Video Understanding System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/large-scale-video-understanding-system/large_scale_video_understanding_system.py)
+- [Build a Video Summarization System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/miscellaneous-applications/video-summarization-system/video_summarization_system.py)
 
 ### License
 ```
