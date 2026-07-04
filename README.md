@@ -51,35 +51,35 @@ Join Outcome School and get a high-paying tech job: [Outcome School](https://out
 - [Implement Logistic Regression from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/logistic-regression/logistic_regression.py)
 - [Implement K-Nearest Neighbors (KNN)](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/knn/knn.py)
 - [Implement Naive Bayes](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/naive-bayes/naive_bayes.py)
-- Implement Decision Tree
-- Implement Random Forest
-- Implement Support Vector Machines (SVM)
-- Implement K-Means Clustering from scratch
-- Implement Principal Component Analysis (PCA)
-- Implement Perceptron from scratch
-- Implement Gradient Descent from scratch
-- Implement Gradient Boosting from scratch
+- [Implement Decision Tree](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/decision-tree/decision_tree.py)
+- [Implement Random Forest](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/random-forest/random_forest.py)
+- [Implement Support Vector Machines (SVM)](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/svm/svm.py)
+- [Implement K-Means Clustering from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/kmeans/kmeans.py)
+- [Implement Principal Component Analysis (PCA)](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/pca/pca.py)
+- [Implement Perceptron from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/perceptron/perceptron.py)
+- [Implement Gradient Descent from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/gradient-descent/gradient_descent.py)
+- [Implement Gradient Boosting from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/gradient-boosting/gradient_boosting.py)
 - [Implement Mean Squared Error (MSE) cost function](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/mean-squared-error/mean_squared_error.py)
 - [Implement Mean Absolute Error (MAE) cost function](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/mean-absolute-error/mean_absolute_error.py)
 - [Implement Sigmoid, Tanh, ReLU, LeakyReLU, and Softmax Activation Functions](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/activation-functions/activation_functions.py)
-- Implement SGD, Adam, RMSprop, and Adagrad Optimizers
-- Implement AdaBoost from scratch
-- Implement Linear Discriminant Analysis (LDA) from scratch
-- Implement Ridge and Lasso Regression from scratch
-- Implement Polynomial Regression
-- Implement ElasticNet Regression
-- Implement Bayesian Regression
-- Implement Mean-Shift Clustering
-- Implement Spectral Clustering
-- Implement Independent Component Analysis
-- Implement Factor Analysis
-- Implement Singular Value Decomposition
-- Implement Gaussian Mixture Models from scratch
-- Implement Hierarchical Clustering
-- Implement DBSCAN Clustering
-- Implement Isolation Forest for Anomaly Detection
-- Implement One-Class SVM for Anomaly Detection
-- Implement Local Outlier Factor (LOF)
+- [Implement SGD, Adam, RMSprop, and Adagrad Optimizers](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/optimizers/optimizers.py)
+- [Implement AdaBoost from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/adaboost/adaboost.py)
+- [Implement Linear Discriminant Analysis (LDA) from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/lda/lda.py)
+- [Implement Ridge and Lasso Regression from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/ridge-lasso-regression/ridge_lasso_regression.py)
+- [Implement Polynomial Regression](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/polynomial-regression/polynomial_regression.py)
+- [Implement ElasticNet Regression](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/elasticnet-regression/elasticnet_regression.py)
+- [Implement Bayesian Regression](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/bayesian-regression/bayesian_regression.py)
+- [Implement Mean-Shift Clustering](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/mean-shift-clustering/mean_shift_clustering.py)
+- [Implement Spectral Clustering](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/spectral-clustering/spectral_clustering.py)
+- [Implement Independent Component Analysis](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/independent-component-analysis/independent_component_analysis.py)
+- [Implement Factor Analysis](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/factor-analysis/factor_analysis.py)
+- [Implement Singular Value Decomposition](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/singular-value-decomposition/singular_value_decomposition.py)
+- [Implement Gaussian Mixture Models from scratch](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/gaussian-mixture-models/gaussian_mixture_models.py)
+- [Implement Hierarchical Clustering](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/hierarchical-clustering/hierarchical_clustering.py)
+- [Implement DBSCAN Clustering](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/dbscan-clustering/dbscan_clustering.py)
+- [Implement Isolation Forest for Anomaly Detection](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/isolation-forest/isolation_forest.py)
+- [Implement One-Class SVM for Anomaly Detection](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/one-class-svm/one_class_svm.py)
+- [Implement Local Outlier Factor (LOF)](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/local-outlier-factor/local_outlier_factor.py)
 
 ### Neural Networks and Deep Learning
 
