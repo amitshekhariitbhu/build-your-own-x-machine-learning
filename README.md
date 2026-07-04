@@ -103,24 +103,24 @@ Join Outcome School and get a high-paying tech job: [Outcome School](https://out
 
 ### Recommendation Systems
 
-- Build a Movie Recommendation System
-- Build a YouTube Video Recommendation System
-- Build a YouTube Video Search System
-- Build a Personalized Content Feed System
-- Implement Similar Listings on Airbnb
-- Implement Replacement Product Recommendation System
-- Build an Event Recommendation System
-- Build a Product Recommendation System
-- Build a Friends Recommendation System
-- Build a Book Recommendation System
-- Implement Collaborative Filtering for Recommendation Systems
-- Develop a Fashion Recommendation System
-- Build a Netflix Recommendation System
-- Build a TED Talk Recommendation System
-- Develop an Instagram and Pinterest Image Filter Recommendation System
-- Build an Article Recommendation System
-- Build a Restaurant Recommendation System
-- Develop a Music and Audio Recommendation System
+- [Build a Movie Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/movie-recommendation-system/movie_recommendation_system.py)
+- [Build a YouTube Video Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/youtube-video-recommendation-system/youtube_video_recommendation_system.py)
+- [Build a YouTube Video Search System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/youtube-video-search-system/youtube_video_search_system.py)
+- [Build a Personalized Content Feed System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/personalized-content-feed-system/personalized_content_feed_system.py)
+- [Implement Similar Listings on Airbnb](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/similar-listings-on-airbnb/similar_listings_on_airbnb.py)
+- [Implement Replacement Product Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/replacement-product-recommendation-system/replacement_product_recommendation_system.py)
+- [Build an Event Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/event-recommendation-system/event_recommendation_system.py)
+- [Build a Product Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/product-recommendation-system/product_recommendation_system.py)
+- [Build a Friends Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/friends-recommendation-system/friends_recommendation_system.py)
+- [Build a Book Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/book-recommendation-system/book_recommendation_system.py)
+- [Implement Collaborative Filtering for Recommendation Systems](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/collaborative-filtering/collaborative_filtering.py)
+- [Develop a Fashion Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/fashion-recommendation-system/fashion_recommendation_system.py)
+- [Build a Netflix Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/netflix-recommendation-system/netflix_recommendation_system.py)
+- [Build a TED Talk Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/ted-talk-recommendation-system/ted_talk_recommendation_system.py)
+- [Develop an Instagram and Pinterest Image Filter Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/instagram-pinterest-image-filter-recommendation-system/instagram_pinterest_image_filter_recommendation_system.py)
+- [Build an Article Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/article-recommendation-system/article_recommendation_system.py)
+- [Build a Restaurant Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/restaurant-recommendation-system/restaurant_recommendation_system.py)
+- [Develop a Music and Audio Recommendation System](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/recommendation-systems/music-audio-recommendation-system/music_audio_recommendation_system.py)
 
 ### Computer Vision Applications
 
