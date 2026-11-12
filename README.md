@@ -80,6 +80,7 @@ Join Outcome School and get a high-paying tech job: [Outcome School](https://out
 - [Implement Isolation Forest for Anomaly Detection](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/isolation-forest/isolation_forest.py)
 - [Implement One-Class SVM for Anomaly Detection](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/one-class-svm/one_class_svm.py)
 - [Implement Local Outlier Factor (LOF)](https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning/blob/main/tutorials/core-machine-learning-algorithms/local-outlier-factor/local_outlier_factor.py)
+- [Tiny ML Lab](https://github.com/RishabhPande/tiny-ml-lab) - NumPy-only algorithm implementations paired with unfinished workbooks, self-checks and numeric tests for both working and failure cases.
 
 ### Neural Networks and Deep Learning
 
